@@ -33,7 +33,7 @@ PRODUCT_MODEL := Redmi Note 6 Pro
 COLT_BUILD_TYPE := Official
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.colt.maintainer="Mahi♥Pawar"
+    ro.colt.maintainer=Mahi♥Pawar
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
