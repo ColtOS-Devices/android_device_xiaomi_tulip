@@ -30,6 +30,7 @@ PRODUCT_DEVICE := tulip
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := colt_tulip
 PRODUCT_MODEL := Redmi Note 6 Pro
+COLT_BUILD_TYPE := Official
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
