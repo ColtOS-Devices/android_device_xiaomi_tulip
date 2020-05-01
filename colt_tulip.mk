@@ -32,6 +32,9 @@ PRODUCT_NAME := colt_tulip
 PRODUCT_MODEL := Redmi Note 6 Pro
 COLT_BUILD_TYPE := Official
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.colt.maintainer="Mahi♥Pawar"
+
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 TARGET_VENDOR_PRODUCT_NAME := tulip
