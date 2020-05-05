@@ -195,5 +195,8 @@
     <bool name="config_show_vendor_mismatch_message">false</bool>
 
     <!-- Whether the device supports Smart Pixels -->
-   <bool name="config_enableSmartPixels">true</bool>
+    <bool name="config_enableSmartPixels">true</bool>
+
+    <!-- Whether to show VoLTE icon in the status bar -->
+    <bool name="config_display_volte">true</bool>
 </resources>
