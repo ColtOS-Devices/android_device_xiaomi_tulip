@@ -49,5 +49,8 @@ TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.qcom
 # Security patch level
 VENDOR_SECURITY_PATCH := 2018-11-01
 
+# Turn off SoftAP MAC randomization
+WIFI_HIDL_FEATURE_DISABLE_AP_MAC_RANDOMIZATION := true
+
 # Inherit the proprietary files
 -include vendor/xiaomi/tulip/BoardConfigVendor.mk
