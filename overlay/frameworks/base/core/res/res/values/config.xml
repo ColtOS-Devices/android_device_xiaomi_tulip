@@ -202,4 +202,7 @@
 
     <!-- Whether to show HD icon in the status bar for volte -->
     <bool name="config_display_hd_volte">true</bool>
+
+    <!-- Shutdown if the battery temperature exceeds (this value * 0.1) Celsius. -->
+    <integer name="config_shutdownBatteryTemperature">550</integer>
 </resources>
