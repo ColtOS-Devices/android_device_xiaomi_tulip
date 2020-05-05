@@ -22,7 +22,7 @@ The Xiaomi Redmi Note 6 Pro (codenamed _"tulip"_) is a mid-range smartphone from
 
 ## Device picture
 
-![Xiaomi Redmi Note 6 Pro](https://img.timesnownews.com/story/1544521578-Xiaomi_Redmi_Note_6_Pro_colours.jpg)
+![Xiaomi Redmi Note 6 Pro](https://github.com/LineageOS/lineage_wiki/blob/master/images/devices/twolip.png)
 
 ## Copyright
 
