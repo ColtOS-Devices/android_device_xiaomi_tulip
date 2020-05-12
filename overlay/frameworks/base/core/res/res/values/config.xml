@@ -208,4 +208,9 @@
 
     <!-- Flashlight on power button -->
     <integer name="config_flashlightProximityTimeout">-1</integer>
+    
+    <!-- Whether device ignores the RSSNR signal implementation -->
+    <bool name="config_ignoreRssnrSignalLevel">true</bool>
+
+
 </resources>
