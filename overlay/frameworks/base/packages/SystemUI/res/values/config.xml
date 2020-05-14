@@ -23,4 +23,10 @@
     <!-- Max visible notification icons -->
     <integer name="config_maxVisibleNotificationIcons">7</integer>
     <integer name="config_maxVisibleNotificationIconsWhenDark">8</integer>
+
+    <!-- Rounded corner padding for Notch view -->
+    <dimen name="rounded_corner_content_padding">7dp</dimen>
+
+    <!-- Margin on the right side of the system icon group on Keyguard. -->
+    <dimen name="system_icons_keyguard_padding_end">5dp</dimen>
 </resources>

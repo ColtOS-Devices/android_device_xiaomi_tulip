@@ -23,8 +23,4 @@
     <dimen name="status_bar_height_landscape">28dp</dimen>
     <dimen name="rounded_corner_radius_top">96px</dimen>
     <dimen name="rounded_corner_radius_bottom">86px</dimen>
-    <dimen name="rounded_corner_content_padding">7dp</dimen>
-
-    <!-- Margin on the right side of the system icon group on Keyguard. -->
-    <dimen name="system_icons_keyguard_padding_end">5dp</dimen>
 </resources>
